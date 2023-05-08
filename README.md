@@ -21,8 +21,8 @@
   
   <li align="left"> <b>Processing shall be lawful only if and to the extent that at least one of the following applies</b> (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1):
       <ol>
-        a) the data subject has given consent</b> his or her personal data for one or more specific purposes; <br>
-        b)is necessary for the performance of a contract; <br>
+        a) the data subject has given consent his or her personal data for one or more specific purposes; <br>
+        b) is necessary for the performance of a contract; <br>
         c) is necessary for compliance with a legal obligation; <br>
         d) is necessary in order to protect the vital interests of the data subject or of another natural person;<br>
         e) is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; <br>
