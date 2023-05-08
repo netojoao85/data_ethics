@@ -15,7 +15,7 @@
      b) Limited to its purpose; <br>
      c) Minimal, adequate and necessary to the purpose defined (data minimisation) <br>
      d) The data should be kept accurate and up-to-date, and not kept longer than needed; and <br>
-     e) The Integrity and Confidentiality of the data have to be warranted <br>
+     e) The Integrity and Confidentiality of the data have to be warranted. <br>
    </ol>
   </li>
   
@@ -25,7 +25,7 @@
         b)is necessary for the performance of a contract; <br>
         c) is necessary for compliance with a legal obligation; <br>
         d) is necessary in order to protect the vital interests of the data subject or of another natural person;<br>
-        e) is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller <br>
+        e) is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; <br>
         f) is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. <br>
       </ol>
     </li> 
