@@ -13,7 +13,7 @@
    <ol>
      a) Transparent, lawful, and fair; <br>   
      b) Limited to its purpose; <br>
-     c) Minimal, adequate and necessary to the purpose defined (data minimisation) <br>
+     c) Minimal, adequate and necessary to the purpose defined (data minimisation); <br>
      d) The data should be kept accurate and up-to-date, and not kept longer than needed; and <br>
      e) The Integrity and Confidentiality of the data have to be warranted. <br>
    </ol>
