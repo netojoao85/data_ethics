@@ -16,7 +16,8 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
    </ol>
   </li>
  <br>
- <li align="justify"> According the 5th Article of GDPR,<b> processing personal data shall be </b>(source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27): 
+ <li align="justify"> According to the 5th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+   <b>Processing personal data shall be </b>
    <ol>
      a) Transparent, lawful, and fair; <br>   
      b) Limited to its purpose; <br>
