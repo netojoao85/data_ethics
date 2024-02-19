@@ -9,7 +9,8 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 ### GDPR Articles detailed
 --------------------------------
 <ul>
- <li align="justify"> 4th Article - Definition of Personal Data and Processing:     
+ <li align="justify"> 4th Article <br>
+   <b>Definition of Personal Data and Processing: </b>  
    <ol> <b>personal data</b> is “<i>any information relating to the data subject, which allows for his direct or indirect identification, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person </i>” (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 1).
    </ol>
 <ol><b>Processing</b> "<i>means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction."</i> (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 2). 
@@ -29,15 +30,14 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
    <br>
   <li align="justify"> 
     6th Article -  Lawfulness of Processing (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
-    The 6th Article specifies the conditions under which the processing of personal data is considered lawful. <br>
     <b>Processing shall be lawful only if and to the extent that at least one of the following applies:</b>
       <ol>
-        a) the data subject has given consent his or her personal data for one or more specific purposes; <br>
+        a) the data subject has given consent for his or her personal data for one or more specific purposes; <br>
         b) is necessary for the performance of a contract; <br>
         c) is necessary for compliance with a legal obligation; <br>
-        d) is necessary in order to protect the vital interests of the data subject or of another natural person;<br>
-        e) is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; <br>
-        f) is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. <br>
+        d) is necessary to protect the vital interests of the data subject or another natural person;<br>
+        e) is necessary for the performance of a task carried out in the public interest or the exercise of official authority vested in the controller; <br>
+        f) is necessary for the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. <br>
       </ol>
     </li> 
    <br>
