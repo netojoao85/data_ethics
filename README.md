@@ -28,7 +28,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
   </li>
    <br>
   <li align="justify"> 
-    According to the 6th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1):
+    According to the 6th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
     <b>Processing shall be lawful only if and to the extent that at least one of the following applies:</b>
       <ol>
         a) the data subject has given consent his or her personal data for one or more specific purposes; <br>
