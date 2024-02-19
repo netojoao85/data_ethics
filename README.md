@@ -46,3 +46,6 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
   </li>
 </ul>
 
+--------------------------------
+Author: João Neto.
+
