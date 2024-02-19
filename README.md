@@ -47,5 +47,5 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 </ul>
 
 --------------------------------
-Author: João Neto.
+<b>Author:</b> João Neto.
 
