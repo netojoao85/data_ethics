@@ -10,7 +10,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 --------------------------------
 <ul>
  <li align="justify"> <b> 4th Article - Definition of Personal Data and Processing: </b>  <br>
-   <ol> <b>personal data</b> is “<i>any information relating to the data subject, which allows for his direct or indirect identification, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person </i>” (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 1).
+   <ol> <b>Personal data</b> is “<i>any information relating to the data subject, which allows for his direct or indirect identification, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person </i>” (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 1).
    </ol>
 <ol><b>Processing</b> "<i>means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction."</i> (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 2). 
    </ol>
