@@ -17,6 +17,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
   </li>
  <br>
  <li align="justify"> 5th Article -  GDPR Principles (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+   The 5th Article outlines the seven principles that regulate the processing of personal data: <br>
    <b>Processing personal data shall be: </b>
    <ol>
      a) Transparent, lawful, and fair; <br>   
