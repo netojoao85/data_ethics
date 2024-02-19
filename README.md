@@ -42,7 +42,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
     </li> 
    <br>
   <li align="justify">
-    9th Article of GDPR - Processing of special categories of personal data <br>
+    9th Article - Processing of special categories of personal data <br>
     <b> Is prohibited processing personal data </b> that “<i>revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data to uniquely identify a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation </i>”. (source: https://www.legislation.gov.uk/eur/2016/679/article/9). However, there are situations where this prohibition shall not apply (GDPR, Article 9, paragraph 2). 
   </li>
 </ul>
