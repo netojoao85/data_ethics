@@ -16,7 +16,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
    </ol>
   </li>
  <br>
- <li align="justify"> <b>5th Article -  Principles relating to processing of personal data </b> (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+ <li align="justify"> <b>5th Article -  Principles to process personal data </b> (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
    <b>This article outlines the seven principles that regulate the processing of personal data that shall be:</b> <br>
    <ol>
      a) Transparent, lawful, and fair; <br>   
