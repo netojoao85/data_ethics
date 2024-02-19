@@ -9,14 +9,14 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 ### GDPR Articles detailed
 --------------------------------
 <ul>
- <li align="justify"> According the 4th Article of GDPR:      
+ <li align="justify"> 4th Article of GDPR - Definitions      
    <ol> <b>personal data</b> is “<i>any information relating to the data subject, which allows for his direct or indirect identification, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person </i>” (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 1).
    </ol>
 <ol><b>Processing</b> "<i>means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction."</i> (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 2). 
    </ol>
   </li>
  <br>
- <li align="justify"> According to the 5th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+ <li align="justify"> 5th Article of GDPR - Principles relating to processing of personal data (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
    <b>Processing personal data shall be: </b>
    <ol>
      a) Transparent, lawful, and fair; <br>   
