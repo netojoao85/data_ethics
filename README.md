@@ -16,7 +16,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
    </ol>
   </li>
  <br>
- <li align="justify"> 5th Article of GDPR - Principles relating to processing of personal data (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+ <li align="justify"> 5th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
    <b>Processing personal data shall be: </b>
    <ol>
      a) Transparent, lawful, and fair; <br>   
@@ -28,7 +28,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
   </li>
    <br>
   <li align="justify"> 
-    According to the 6th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
+    6th Article of GDPR - Lawfulness of processing (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
     <b>Processing shall be lawful only if and to the extent that at least one of the following applies:</b>
       <ol>
         a) the data subject has given consent his or her personal data for one or more specific purposes; <br>
@@ -41,7 +41,7 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
     </li> 
    <br>
   <li align="justify">
-    According to the 9th Article of GDPR <br>
+    9th Article of GDPR - Processing of special categories of personal data <br>
     <b> Is prohibited processing personal data </b> that “<i>revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data to uniquely identify a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation </i>”. (source: https://www.legislation.gov.uk/eur/2016/679/article/9). However, there are situations where this prohibition shall not apply (GDPR, Article 9, paragraph 2). 
   </li>
 </ul>
