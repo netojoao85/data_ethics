@@ -9,14 +9,14 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 ### GDPR Articles detailed
 --------------------------------
 <ul>
- <li align="justify"> 4th Article of GDPR - Definitions      
+ <li align="justify"> 4th Article - Definition of Personal Data and Processing:     
    <ol> <b>personal data</b> is “<i>any information relating to the data subject, which allows for his direct or indirect identification, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person </i>” (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 1).
    </ol>
 <ol><b>Processing</b> "<i>means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction."</i> (source: https://www.legislation.gov.uk/eur/2016/679/article/4, paragraph 2). 
    </ol>
   </li>
  <br>
- <li align="justify"> 5th Article of GDPR (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
+ <li align="justify"> 5th Article -  GDPR Principles (source: https://www.legislation.gov.uk/eur/2016/679/article/5/2016-04-27)<br>
    <b>Processing personal data shall be: </b>
    <ol>
      a) Transparent, lawful, and fair; <br>   
@@ -28,7 +28,8 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
   </li>
    <br>
   <li align="justify"> 
-    6th Article of GDPR - Lawfulness of processing (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
+    6th Article -  Lawfulness of Processing (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
+    The 6th Article specifies the conditions under which the processing of personal data is considered lawful. <br>
     <b>Processing shall be lawful only if and to the extent that at least one of the following applies:</b>
       <ol>
         a) the data subject has given consent his or her personal data for one or more specific purposes; <br>
