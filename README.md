@@ -29,6 +29,8 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
      e) The Integrity and Confidentiality of the data have to be warranted. <br>
    </ol>
   </li>
+  ![image](https://github.com/netojoao85/data_ethics/assets/106321229/a5e6db0b-1502-4572-814b-24a34df11710)
+
    <br>
   <li align="justify"> 
     <b>6th Article -  Lawfulness of Processing </b> (source: https://www.legislation.gov.uk/eur/2016/679/article/6, paragraph 1): <br>
