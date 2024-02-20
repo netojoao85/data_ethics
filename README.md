@@ -6,6 +6,9 @@ Behind data, there are in many cases humans, increasing the awareness regarding 
 
 <p align="justify"> In particular, the 4th, 5th, and 9th articles of GDPR assume relevant importance for the regular work of a data scientist, supporting personal data collection and storage decisions. The 4th Article is one of the most important of GDPR once it defines what is personal data and processing. The 5th Article outlines the seven principles that regulate the processing of personal data, and the 9th Article declares specific situations where the processing of personal data is prohibited. Beyond those three articles, the 6th Article specifies the conditions that processing personal data is considered lawful. Bellow, these GDPR articles are detailed. </p>
 
+# Data bias
+<p align="justify">Bias is also a big issue in Data Science because it can influence decision-making. Data is biased when the sample (data available) is not representative of the population or phenomenon of study.</p>
+
 ### GDPR Articles
 --------------------------------
 <ul>
