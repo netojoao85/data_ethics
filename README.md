@@ -1,6 +1,6 @@
 # Data ethics & Privacy (GDPR)
 
-<p align="justify"> The exponential increase in data volume has come with new challenges for Data Scientists and organizations, namely in ethical implications. </p>
+<p align="justify"> The exponential increase in data volume has come with new challenges for Data Scientists and organizations, namely in legal and ethical implications. </p>
 Behind data, there are in many cases humans, increasing the awareness regarding the ethical implications of data processing. Consequently, strict adherence to a global ethical code and compliance with laws like the General Data Protection Regulation (GDPR) are imperative to protect the rights and freedom of each person. Failure to comply with ethical principles and regulations may lead to legal action and damage to the reputations of both individuals and organizations. </p>
   
 
