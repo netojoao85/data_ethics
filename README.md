@@ -1,4 +1,4 @@
-# Data Ethics, Privacy, and Bias 
+# Data Ethics, Privacy, and Bias
 
 <p align="justify"> The exponential increase in data volume and rapid technological advancements present new challenges for both Data Scientists and organizations, particularly regarding Legal and ethical considerations. That's why I wrote a text which introduces practical ethical issues in data science, covering topics such as privacy, accountability, and biases in data. 
 
