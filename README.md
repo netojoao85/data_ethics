@@ -1,7 +1,7 @@
 # Data Ethics, Privacy, and Bias
 <img src = "https://github.com/netojoao85/data_ethics/blob/main/images/data_ethics.jpg" alt = "data ethic banner" />
 
-<p align="justify"> The exponential increase in data volume and rapid technological advancements present new challenges for both Data Scientists and organizations, particularly regarding Legal and ethical considerations. That's why I wrote a text which introduces practical ethical issues in data science, covering topics such as privacy, accountability, and biases in data. 
+<p align="justify"> The exponential increase in data volume and rapid technological advancements present new challenges for Data Scientists and organizations, particularly regarding Legal and ethical considerations. That's why I wrote a text which introduces practical ethical issues in data science, covering topics such as privacy, accountability, and biases in data. 
 
 In this repository, you can find the R Notebook customized with HTML and CSS with the written text. You can find the document published on this link: https://rpubs.com/jneto/data_ethics_privacy
 
