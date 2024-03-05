@@ -39,11 +39,11 @@ output:
 <h5 style = "color:grey">
 
 <b>Author:</b> João Neto\
-<b>LinkedIn:</b> linkedin.com/in/joaonetoprofile\
+<b>LinkedIn:</b> linkedin.com/in/joaonetoprofile
 
 <h5>
 
-<img src = "https://github.com/netojoao85/data_ethics/blob/main/images/data_ethics.jpg" alt = "data ethics banner"/> 
+![](images/data_ethics.jpg)
 
 <hr>
 
