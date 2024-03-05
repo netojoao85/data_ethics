@@ -43,7 +43,7 @@ output:
 
 <h5>
 
-![](GettyImages-1040557296.jpg)
+<img src = "https://github.com/netojoao85/data_ethics/blob/main/images/data_ethics.jpg" alt = "data ethics banner"/> 
 
 <hr>
 
