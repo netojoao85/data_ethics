@@ -37,8 +37,8 @@ h2, h3 {
         overflow: auto;
         border-radius: 0px;
         margin: 0px;
-        background-color: lightgrey;
-        border: 1px solid lightgrey;
+        background-color: #F0F0F0;
+        border: 1px solid #F0F0F0;
     }
 
     div#TOC.tocify {
@@ -50,7 +50,7 @@ h2, h3 {
 
 /*Toc inside background*/
 li.tocify-item {
-    background-color: lightgrey;
+    background-color: #F0F0F0;
     color:black;
 }
 
