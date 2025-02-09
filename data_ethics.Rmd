@@ -41,6 +41,7 @@ HTML(paste(title_and_header, collapse = "\n"))
 ```
 
 ## 1. Introduction
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 introduction <- readLines(introduction_dir, warn = FALSE)
@@ -49,6 +50,7 @@ HTML(paste(introduction, collapse = "\n"))
 ```
 
 ## 2. Data Ethics & Privacy (GDPR)
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 data_ethics_and_privacy <- readLines(data_ethics_and_privacy_dir, warn = FALSE)
@@ -59,46 +61,59 @@ HTML(paste(data_ethics_and_privacy, collapse = "\n"))
 ### 2.1. GDPR Articles
 
 <details class="gdpr_section" open>
+
 <summary><b>4th Article: Definition of Personal Data and Processing</b></summary>
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 gdpr_4th_article <- readLines(gdpr_4th_article_dir, warn = FALSE)
 HTML(paste(gdpr_4th_article, collapse = "\n"))
 
 ```
+
 </details>
 
 <details class="gdpr_section" open>
+
 <summary><b>5th Article: Principles to Process Personal Data</b></summary>
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 gdpr_5th_article <- readLines(gdpr_5th_article_dir, warn = FALSE)
 HTML(paste(gdpr_5th_article, collapse = "\n"))
 
 ```
+
 </details>
 
 <details class="gdpr_section" open>
+
 <summary><b>6th Article: Lawfulness of Processing </b></summary>
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 gdpr_6th_article <- readLines(gdpr_6th_article_dir, warn = FALSE)
 HTML(paste(gdpr_6th_article, collapse = "\n"))
 
 ```
+
 </details>
 
 <details class="gdpr_section" open>
+
 <summary><b> 9th Article: Processing of Special Categories of Personal Data </b></summary>
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 gdpr_9th_article <- readLines(gdpr_9th_article_dir, warn = FALSE)
 HTML(paste(gdpr_9th_article, collapse = "\n"))
 
 ```
+
 </details>
 
 ## 3. Fairness
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 fairness <- readLines(fairness_dir, warn = FALSE)
@@ -107,6 +122,7 @@ HTML(paste(fairness, collapse = "\n"))
 ```
 
 ### 3.1. Data Bias as a Fairness challenge
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 data_bias <- readLines(data_bias_dir, warn = FALSE)
@@ -114,8 +130,8 @@ HTML(paste(data_bias, collapse = "\n"))
 
 ```
 
-
 ## 4. Accountability
+
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
 
 accountability <- readLines(accountability_dir, warn = FALSE)
